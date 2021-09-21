@@ -1,1 +1,2 @@
-print("Hello Python and GIT!") 
+print("Hello Python and GIT!")
+print('Testing')
